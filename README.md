@@ -28,10 +28,27 @@ Objektivat
 Te zhvillohet detyra qe i ploteson kerkesat sipas shpejgimit te lojes dhe gameplay te saj. Loja mund te
 zhvillohet duke perdorur teknologji sipas deshires (pa kufizim).
 Pike bonus (veqori opcionale)
-          ● Te mund te para caktohet ngjyra per secilin lojtar
-          ● Te kete mundesi per te luajtur lojtari kunder robotit (roboti me levizje valide random)
-          ● Te jete mobile friendly (responsive design)
-          ● Te kete friendly user design
-          ● Te jete interaktiv dhe te kete efekte animacionale
+
+● Te mund te para caktohet ngjyra per secilin lojtar
+
+● Te kete mundesi per te luajtur lojtari kunder robotit (roboti me levizje valide random)
+
+● Te jete mobile friendly (responsive design)
+
+● Te kete friendly user design
+
+● Te jete interaktiv dhe te kete efekte animacionale
           
-     
+ Pamje te lojes
+ 
+ Faqja Kryesore
+ ![image](https://user-images.githubusercontent.com/44062876/110560342-b2da3380-81aa-11eb-8fc2-19402f19f28f.png)
+
+Loja Human vs Human
+![image](https://user-images.githubusercontent.com/44062876/110560647-37c54d00-81ab-11eb-8898-adc7278a9f42.png)
+
+
+Loja Human vs Computer
+![image](https://user-images.githubusercontent.com/44062876/110560571-16fcf780-81ab-11eb-88b6-cbdac3096ae8.png)
+
+
