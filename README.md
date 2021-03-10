@@ -42,7 +42,9 @@ Pike bonus (veqori opcionale)
  Pamje te lojes
  
  Faqja Kryesore
- ![image](https://user-images.githubusercontent.com/44062876/110560342-b2da3380-81aa-11eb-8fc2-19402f19f28f.png)
+![image](https://user-images.githubusercontent.com/44062876/110560892-a0142e80-81ab-11eb-8dc0-650b996b24a8.png)
+
+
 
 Loja Human vs Human
 ![image](https://user-images.githubusercontent.com/44062876/110560647-37c54d00-81ab-11eb-8898-adc7278a9f42.png)
