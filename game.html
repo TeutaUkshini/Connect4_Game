@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <style>
+body
+
+{
+	
+	font-family: 'Times New Roman', Times;
+	color: white;
+	background-color: rgba(3, 0, 7, 0.952);
+  width: 1000px;
+  margin: auto;
+  
+}
+nav
+
+{
+
+  background-color: #333;
+  overflow: auto;
+  width: 100%;
+
+}
+.left
+
+{
+
+  float: left;
+  
+}
+.right
+
+{
+
+  float: right;
+  margin-right: 5px ;
+  
+}
+li
+
+{
+
+display: inline-block;
+
+}
+.left li a
+
+{
+
+  width: 90px;
+  display: block;
+  background: #333;
+  font-size: 11px;
+  text-decoration: none;
+  color: gray;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 2px;
+  padding-top: 0px;
+  
+}
+.left li a:hover
+
+{
+
+  color: orange;
+  
+}
+    
+    </style>
+</head>
+<body>
+	<hr>
+<div ng-app="">
+ 
+<p>Name : <input type="text" ng-model="name" placeholder="Enter name here"></p>
+<h1>Hello {{name}}</h1>
+
+</div>
+<img src="4.png" width="1000" height="350">
+   
+            <nav>
+                <p>
+                <font size="+3">
+                Connect-Four Game
+                </font>
+                </p>
+    <h1>Kliko ne buton lojen qe deshironi te luani: </h1>
+                <center>
+                
+       <ul id="left">
+           
+           <li>
+           <a class="active" href="test1/index.html"><button type="button" class="button">Human vs Human&raquo;
+           </button>
+           </a> 
+           </li>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           <li>
+           <a href="test/test.html">
+           <button type="button" class="button">
+           Human vs Computer&raquo; 
+           </button>
+           </a> 
+           </li>
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+    </ul>
+     </center>
+     <br>
+    <hr>       
+    </body>
+</html>
+            
+
